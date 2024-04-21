@@ -1,0 +1,47 @@
+{
+    "name": "She share",
+    "tagline": "vacation rentals",
+    "description": "Find your perfect vacation rental with She share",
+    "logo": "/she_share_logo.png",
+    "color": {
+        "primary": "#8F71B1",
+        "secondary": "#CCADE1",
+        "accent": "#FFFFFF"
+    },
+    "features": [
+        "Product browsing",
+        "Product search",
+        "User authentication",
+        "Shopping cart",
+        "Checkout process",
+        "Payment integration",
+        "Order tracking",
+        "Customer support",
+        "Product reviews",
+        "Wishlist",
+        "Discounts and promotions"
+    ],
+    "social": {
+        "facebook": "https://www.facebook.com/yourpage",
+        "twitter": "https://twitter.com/yourpage",
+        "instagram": "https://www.instagram.com/yourpage",
+        "linkedin": "https://www.linkedin.com/company/yourpage"
+    },  
+    "contact": {
+        "email": "info@example.com",
+        "phone": "+1234567890",
+        "address": "123 Main St, City, Country"
+    },
+    "fonts": {
+        "primary": "Inter",
+        "secondary": "Lato",
+        "accent": "Lato"
+    },
+    "links": {
+        "pages": {
+            "home": "/",
+            "register": "/register",
+            "profile": "/profile"
+        }
+    }
+}
